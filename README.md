@@ -7,7 +7,7 @@
 
 - 🌱 I’ve graduated from **iO Academy 🎓 as a Full Stack dev**
 
-- 👨‍💻 All of my projects are available at [https://2022-nicolash.dev.io-academy.uk/Portfolio/](https://2022-nicolash.dev.io-academy.uk/Portfolio/)
+- 👨‍💻 All of my projects are available at [www.nicolas-herbreteau.com](https://nicolas-herbreteau.com)
 
 - 📫 How to reach me **nicolas.herbreteau@gmail.com**
 
